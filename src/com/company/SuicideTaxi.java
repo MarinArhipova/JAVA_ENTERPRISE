@@ -16,6 +16,4 @@ public class SuicideTaxi implements Taxi {
         }
         else return 20*km;
     }
-
-
 }
